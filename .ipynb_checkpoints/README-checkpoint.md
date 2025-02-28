@@ -32,3 +32,4 @@ This project consist parts, which are:
 7. Feature Scaling
 8. Model Building
 9. Model Evaluation
+10. Data Integration
